@@ -29,4 +29,12 @@ main{
 a{
     width: 153px;
     display: block;
+    text-decoration: none;
+}
+span{
+    position: relative;
+    bottom: 21px;
+    left: 60px;
+    font-size: 10px;
+    color: #fff;
 }

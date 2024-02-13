@@ -1,0 +1,32 @@
+body{
+    font-family: "Amatic SC", sans-serif;
+    color: #CA0229;
+    margin: auto;
+    background-color: #EEE8CB;
+    background-image: url(img/Group\ 5.png);
+}
+h1{
+    margin: auto;
+    font-size: 40px;
+}
+header{
+    display: flex;
+}
+main{
+    background-image: url(img/Group\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 610px;
+}
+.cards{
+    width: 153px;
+    margin: auto;
+    padding-top: 120px;
+}
+.card{
+    margin-bottom: 10px;
+}
+a{
+    width: 153px;
+    display: block;
+}

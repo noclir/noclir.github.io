@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+}
+body{
+    background-image: url(img/bg.png);
+    max-width: 450px;
+    margin: auto;
+}
+h1{
+    font-family: Amatic SC, sans-serif;
+    color: #CA0229;
+    margin: auto;
+    font-size: 40px;
+}
+main{
+    display: block;
+}
+.text{
+    text-align: right;
+    width: 57%;
+    margin-left: auto;
+    margin-top: 8%;
+    font-family: Amatic SC, sans-serif;
+    color: #CA0229;
+    font-size: 25px;
+    padding-right: 25px;
+}
+.img{
+    margin-top: 20%;
+    margin-left: 2%;
+    display: flex;
+}
+img{
+    border: 2px solid #C22141;
+    margin-bottom: 15px;
+}
+span{
+    font-family: Amatic SC, sans-serif;
+    color: #462014;
+    font-size: 25px;
+    transform: rotate(-30deg);
+    transform-origin: top left;
+}
+.text2{
+    transform: rotate(90deg);
+    margin-left: -25%;
+}
